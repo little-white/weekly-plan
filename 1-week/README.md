@@ -243,10 +243,18 @@ define(["dependency1","dependency2","source1","source2"], function() {
 
 这个文章的评论已经关闭了，有关于js的任何疑问可以访问[forums](http://www.sitepoint.com/forums/forumdisplay.php?15-JavaScript-amp-jQuery?utm_source=sitepoint&utm_medium=link&utm_campaign=forumlink)。
 
-
-
-
-
-
-
 # RequireJS的使用
+
+> main1.html是第一个简单的例子。
+>
+> data-main：通过此属性来加载初始化模块
+
+将会在控制台下显示`hi qiqi`。
+
+> mian2.html是通过config来配置我们的应用。
+>
+> baseUrl：如果不设置此值，它的值是data-main指定文件所在的路径，即js/。这个例子中我们设置为`js/app`，当require`login`模块，则路径是js/app/login。
+>
+> paths：通过配置paths，如果在路径发生了变化，只需要修改这个就ok了。
+
+将会在控制台分别显示`login methods`和`register.js`。
