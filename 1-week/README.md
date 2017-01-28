@@ -258,3 +258,9 @@ define(["dependency1","dependency2","source1","source2"], function() {
 > paths：通过配置paths，如果在路径发生了变化，只需要修改这个就ok了。
 
 将会在控制台分别显示`login methods`和`register.js`。
+
+> main3.html使用shim来配置我们的应用
+>
+> 因为RequireJS是异步加载模块的，通过shim我可以保证模块是按照顺序来加载。
+
+将会在控制台分别显示`demo1.js`和`demo2.js`。
