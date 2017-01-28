@@ -14,5 +14,6 @@
 
 ### <a name="1-week"></a>requirejs的学习
 
-
-
+* [为什么学requirejs](https://github.com/little-white/weekly-plan/tree/master/1-week#为什么学requirejs)
+* [requirejs的介绍](https://github.com/little-white/weekly-plan/tree/master/1-week#requirejs的介绍)
+* [requirejs的使用](https://github.com/little-white/weekly-plan/tree/master/1-week#requirejs的使用)
