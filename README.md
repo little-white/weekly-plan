@@ -23,6 +23,6 @@
 ### <a name="1-week"></a>webpack的学习
 
 * 为什么学webpack
-* webpack的介绍
+* [webpack的介绍](https://github.com/little-white/weekly-plan/tree/master/2-week#webpack的介绍)
 * webpack的使用
 
