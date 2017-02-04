@@ -265,7 +265,7 @@ require('./styles/main.scss');
 npm install url-loader
 ```
 
-现在让我们在```webpack.config.js```中实时不同的东西。按通常的方式添加另外一个实体到加载器的数组中，但是这次我们想让正则来匹配不同的后缀名：
+现在让我们在```webpack.config.js```中试试不同的东西。按通常的方式添加另外一个实体到加载器的数组中，但是这次我们想让正则来匹配不同的后缀名：
 
 ```javascript
 {
