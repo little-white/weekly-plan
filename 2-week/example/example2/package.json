@@ -1,0 +1,18 @@
+{
+  "name": "example2",
+  "version": "1.0.0",
+  "description": "在这个例子中我们地使用webpack将```index.js```打包成```bundle.js```。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack index.js bundle.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  },
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
+}
