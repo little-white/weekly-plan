@@ -1,3 +1,12 @@
+# 为什么学webpack
+
+* 可以模块化代码（js、css、image等等）
+* 支持CMD、AMD等规范
+* 通过加载器可以使构建自动化
+* 可以监测代码变化，自动刷新浏览器
+
+我感觉webpack就相当于requires/seajs/browersify和gulp/grunt等的合体。
+
 # Webpack的介绍
 
 通过我翻译的一篇文章来详细介绍下Webpack吧。
@@ -367,6 +376,8 @@ webpack -p
 我希望这两部分的教程可以给你足够的自信在项目中是用Webpack。要记住如果有一些需要构建的事情，Webpack基本都会有个加载器来做这个。所有的加载器通过npm来安装，我们可以查看是否你需要的别人已经制作好了。
 
 玩得开心！
+
+#webpack的学习
 
 
 
