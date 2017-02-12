@@ -32,6 +32,6 @@
 ### <a name="3-week"></a>npm script的学习
 
 * 为什么学npm script
-* npm script的介绍
+* [npm script的介绍](https://github.com/little-white/weekly-plan/blob/master/3-week/README.md)(翻译)
 * npm script的使用
 
