@@ -14,7 +14,9 @@
 
 [第二周计划（webpack）](#2-week)
 
-[第二周计划(npm script)](#3-week)
+[第三周计划(npm script)](#3-week)
+
+[第四周计划(npm script)](#4-week)
 
 ### <a name="1-week"></a>requirejs的学习
 
@@ -35,3 +37,9 @@
 * [npm script的介绍](https://github.com/little-white/weekly-plan/blob/master/3-week/README.md)(翻译)
 * npm script的使用
 
+
+### <a name="4-week"></a>redux的学习
+
+- 为什么学redux
+- redux的介绍(翻译)
+- redux的使用
