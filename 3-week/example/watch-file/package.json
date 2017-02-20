@@ -1,0 +1,17 @@
+{
+  "name": "watch-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "watch": "^1.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass scss/test.scss dist/test.css",
+    "watch": "watch 'npm run sass' scss/"
+  },
+  "author": "",
+  "license": "ISC"
+}
